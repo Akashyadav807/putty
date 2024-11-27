@@ -2,4 +2,8 @@ hi friends
 this is branch 2 
 this is branch 3
 new line f1
+<<<<<<< HEAD
 this is new feature 
+=======
+this is another line
+>>>>>>> f-1
